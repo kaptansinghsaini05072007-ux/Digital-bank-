@@ -1,0 +1,11 @@
+/* src/styles/theme.css */
+:root {
+  --primary-purple: #6F1EB2;
+  --secondary-purple: #8E35FF;
+  --light-purple: #F3E5F5;
+  --success-green: #00D200;
+  --white: #FFFFFF;
+  --text-dark: #333333;
+  --text-light: #666666;
+  --background: #F8F9FA;
+}
